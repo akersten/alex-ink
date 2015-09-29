@@ -3,7 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Alex Kersten'
-SITENAME = '<img src="static/logo.png" alt="alex ink" />'
+SITENAME = 'alex ink'
+#SITENAME = '<img src="static/logo.png" style="margin-top:0;width:50%;height:50%;" alt="alex ink" />'
 SITEURL = ''
 
 PATH = 'content'
