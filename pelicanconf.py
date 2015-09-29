@@ -7,6 +7,7 @@ SITENAME = 'alex ink'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['static']
 
 TIMEZONE = 'America/Chicago'
 
