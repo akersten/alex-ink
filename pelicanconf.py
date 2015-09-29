@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Alex Kersten'
-SITENAME = 'alex ink'
+SITENAME = '<img src="static/logo.png" alt="alex ink" />'
 SITEURL = ''
 
 PATH = 'content'
@@ -34,3 +34,7 @@ DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+
+# Theme variables
+GITHUB_URL = 'https://github.com/akersten'
