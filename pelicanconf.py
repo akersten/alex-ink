@@ -38,4 +38,6 @@ DEFAULT_PAGINATION = 5
 
 
 # Theme variables
-GITHUB_URL = 'https://github.com/akersten'
+THEME='../pelican-themes/pelican-svbhack/'
+USER_LOGO_URL='http://alex.ink/static/logo.png'
+
