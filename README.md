@@ -1,4 +1,2 @@
-# alex-ink
-Personal blog and about website
-
-[alex.ink](http://alex.ink)
+#[alex-ink](http://alex.ink)
+My personal blog.
