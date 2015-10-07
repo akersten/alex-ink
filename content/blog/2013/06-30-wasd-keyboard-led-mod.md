@@ -5,7 +5,7 @@ It’s been exactly a year, give or take a day, since I bought my WASD keyboard.
 It’s been great, but it also has blue LEDs, which clash with my custom keycap
 coloring. Since I couldn’t customize them on WASD’s website, I decided to change them out.
 
-![Blue and orange](1.jpg) 
+![Blue and orange]({filename}/static/i/13/6/30/1.jpg) 
 Blue and orange might look good
 together on movie posters, but not here.
 
