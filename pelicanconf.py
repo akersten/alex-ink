@@ -4,8 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Alex Kersten'
 SITENAME = 'alex ink'
-#SITENAME = '<img src="static/logo.png" style="margin-top:0;width:50%;height:50%;" alt="alex ink" />'
-SITEURL = ''
+SITEURL = 'http://alex.ink'
 
 PATH = 'content'
 STATIC_PATHS = ['static']
@@ -34,7 +33,7 @@ SOCIAL = (
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 
 # Theme variables
