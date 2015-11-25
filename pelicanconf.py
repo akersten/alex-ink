@@ -39,4 +39,4 @@ RELATIVE_URLS = True
 # Theme variables
 THEME='../pelican-themes/pelican-svbhack/'
 USER_LOGO_URL='http://alex.ink/static/logo.png'
-
+GOOGLE_ANALYTICS='UA-59557202-2'
