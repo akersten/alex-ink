@@ -1,0 +1,16 @@
+html {
+        background-color: #fafafa;
+        color: #222;
+}
+
+body {
+        font-size: 14pt;
+        margin: 1rem;
+}
+
+.container {
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 60rem;
+}
+
